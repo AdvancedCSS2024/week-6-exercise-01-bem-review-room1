@@ -82,7 +82,7 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
 > There are more mistakes to fix here :)
 
     <section class="section section__dog">
-        <article class="card article__dog">
+        <article class="card card__dog">
             <aside class="aside aside__dog">
                 <figure class="figure figure__dog">
                     <img src="..." alt="Dummy Image" class="image image__dog" />
@@ -102,7 +102,7 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
     </article>
 
 ## Example 8
-    <article class="card card--dog card--dog--type1">
+    <article class="card card__dog card__dog--type1">
       ...
     </article>
 
