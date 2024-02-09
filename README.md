@@ -144,7 +144,7 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
 
     
 ## Example 12
-    <section class="dog--flex">
+    <section class="section__dog--flex">
         ...
     </section>
 
