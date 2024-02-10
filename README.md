@@ -235,8 +235,8 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
     </section>
 
 ## Example 24
-    .button__div1,
-    .button__div2 {
+    .div1__button,
+    .div2__button {
         display: flex;
         flex-direction: row-reverse;
     }
