@@ -207,9 +207,10 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
 > Why it is not a good idea to create repetitive styles based on id?
 > In which context we should use ids?
 
-    #wishlist {
+    .wishlist {
         ...
     }
+    /*ids should only be used if it's a singular case. It wouldn't be singular if the other elements had a lot in common with it*/
 
 ## Example 21
     <main class="main_flex-container">
