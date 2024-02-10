@@ -81,11 +81,11 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
 > [!TIP]
 > There are more mistakes to fix here :)
 
-    <section class="card">
-        <article class="card article__dog">
-            <aside class="article__dog aside">
-                <figure class="article__dog figure">
-                    <img src="..." alt="Dummy Image" class="" />
+    <section class="section section__dog">
+        <article class="card card__dog">
+            <aside class="aside card__aside">
+                <figure class="figure card__figure">
+                    <img src="..." alt="Dummy Image" class="image card__image" />
                 </figure>
              </aside>
          </article>
