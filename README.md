@@ -168,7 +168,7 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
     </header>
 
 ## Example 16
-    <section class="catbox">
+    <section class="section__catbox">
         ...
     </section>
 
