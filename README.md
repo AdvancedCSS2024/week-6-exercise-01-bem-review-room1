@@ -264,3 +264,5 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
 
 ## Example 27
 In what scenarios is it advantageous to use a class name that represents the animal, and in what scenarios would it be preferable to use a generic name like 'product_01' or 'product_02'?
+- Say a zoo or a pet shop made a website, then it would make sense to make classes based on animal names.
+- E.g. a clothing brand would benefit from using classes like 'product_01' and/or 'product_02'?
